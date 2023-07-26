@@ -9,4 +9,4 @@ The data was gathered from [OpenAPI of the Korean Government](https://www.data.g
 
 Here is an example of the screen
 
-![screen1](detail2)
+![screen1](detail2.jpg)
